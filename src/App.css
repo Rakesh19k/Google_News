@@ -1,0 +1,19 @@
+
+.card{
+  background-color: rgb(241, 255, 255);
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: black;
+  margin: auto;
+}
+
+.more{
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 700px){
+  .navbar{
+    width: 121.9%;  
+  }
+}
+
